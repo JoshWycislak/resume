@@ -1,0 +1,42 @@
+
+body {
+    background-image: url(./resources/IMG_4766.jpeg);
+    background-size: 50%;
+
+}
+h1 {
+    color:;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+h2 {
+    color:green;
+}
+
+.experience {
+    background-color: rgb(114, 38, 51);
+    border: 2px solid black;
+    width: 50%;
+}
+
+.skills {
+  
+    background-color:;
+    border: 2px solid black;
+}
+
+.education {
+    background-color: orange;
+    border: 2px solid black;
+}
+
+
+.awards {
+    background-color: lightgreen;
+    border: 2px solid black;
+}
+.employers {
+    background-color:blue;
+    border: 2px solid black;
+}
