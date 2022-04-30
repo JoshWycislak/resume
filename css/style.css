@@ -36,7 +36,7 @@ h2 {
 .experience {
     background-color: rgb(212, 80, 102);
     border: 2px solid black;
-    width: 50%;
+    width: 100%;
     padding: 5px;
 }
 .experience .josh img {
@@ -51,7 +51,7 @@ h2 {
   
     background-color: rgb(109, 84, 232);
     border: 2px solid black;
-    width: 50%;
+    width: 100%;
     padding: 5px;
 }
 
