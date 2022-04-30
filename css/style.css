@@ -43,7 +43,7 @@ h2 {
     width: 400px;
     height: auto;
     display: inline-block;
-    position: fixed;
+    position: right;
     padding-left: 50%;
     padding-top: none;
 }
