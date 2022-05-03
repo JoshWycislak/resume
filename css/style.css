@@ -96,17 +96,19 @@ img {
     padding: 5px;
 }
 .education {
-    background-color: orange;
+    background-image: url("./resources/pinkuniverse.jpeg");
     border: 2px solid black;
     padding: 5px;
+    color: white;
 }
 .awards {
     background-color: gold;
     border: 2px solid black;
     padding: 5px;
+    color: white;
 }
 .employers {
-    background-color: lightgreen;
+    background-image: url("./resources/leather.jpeg");
     border: 2px solid black;
     padding: 5px;
 }
