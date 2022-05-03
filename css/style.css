@@ -11,13 +11,6 @@ nav a {
     padding: 5px;
     background-repeat: ;
 }
-.index1 {
-    background-image: url("./resources/eaglebackground.jpeg");
-    border: 1px solid white;
-    padding: 5px;
-    width: auto;
-    background-repeat: none; 
-}
 .edu {
     background-color: rgb(128, 225, 128);
     background-size: 50%;
@@ -35,6 +28,16 @@ nav a {
     background-size: 50%;
     border: 1px solid white;
     padding: 5px;
+}
+.award {
+    background-image: url("./resources/eaglebackground.jpeg");
+    border: 1px solid white;
+    padding: 5px;
+    width: auto;
+    background-repeat: none; 
+}
+.award img {
+    width: auto;
 }
 .container {
     position:relative;
