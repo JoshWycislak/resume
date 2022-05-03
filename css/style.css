@@ -57,7 +57,6 @@ nav a {
     left: 20px;
     background-color: black;
     opacity: 75%;
-    
     color: white;
     padding-left: 20px;
     padding-right: 20px;
@@ -67,12 +66,9 @@ h1 {
     background-color: forestgreen;
     text-align: center;
 }
-
 h2 {
     color:green;
-    
 }
-
 .experience {
     background-color: rgb(212, 80, 102);
     border: 2px solid black;
@@ -99,14 +95,11 @@ img {
     border: 2px solid black;
     padding: 5px;
 }
-
 .education {
     background-color: orange;
     border: 2px solid black;
     padding: 5px;
 }
-
-
 .awards {
     background-color: gold;
     border: 2px solid black;
