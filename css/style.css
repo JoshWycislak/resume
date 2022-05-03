@@ -40,17 +40,16 @@ h2 {
     width: 100%;
     padding: 5px;
 }
-.experience .josh img {
-    width: 200px;
+.josh img {
+    width: 50%;
     height: auto;
     display: inline-block;
     position: fixed;
     padding-left: 50%;
     padding-top: none;
+    bottom: 20px;
 }
-
 .skills {
-  
     background-color: rgb(109, 84, 232);
     border: 2px solid black;
     width: 100%;
