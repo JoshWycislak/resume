@@ -4,30 +4,19 @@ nav a {
     color: rgba(242, 26, 228, 0.977);
     text-decoration: none;
 }
-.index {
+.basic {
     background-color: rgb(128, 225, 128);
     background-size: 50%;
     border: 1px solid white;
     padding: 5px;
     background-repeat: ;
 }
-.edu {
-    background-color: rgb(128, 225, 128);
-    background-size: 50%;
-    border: 1px solid white;
-    padding: 5px;
+.basic img {
+    width: 100%;
 }
-.ex {
-    background-color: rgb(128, 225, 128);
-    background-size: 50%;
-    border: 1px solid white;
-    padding: 5px; 
-}
-.skill {
-    background-color: rgb(128, 225, 128);
-    background-size: 50%;
-    border: 1px solid white;
-    padding: 5px;
+
+table, th, tr, td {
+    border: 1px solid black;
 }
 .award {
     background-image: url("./resources/eaglebackground.jpeg");
