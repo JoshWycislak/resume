@@ -1,8 +1,18 @@
-nav a {
-    display: inline;
+.award {
+    background-image: url("./resources/eaglebackground.jpeg");
+    border: 1px solid white;
     padding: 5px;
-    color: rgba(242, 26, 228, 0.977);
-    text-decoration: none;
+    width: auto;
+    background-repeat: none; 
+}
+.awards {
+    background-color: gold;
+    border: 2px solid black;
+    padding: 5px;
+    color: white;
+}
+.award img {
+    width: auto;
 }
 .basic {
     background-color: rgb(128, 225, 128);
@@ -14,22 +24,73 @@ nav a {
 .basic img {
     width: 100%;
 }
-
-table, th, tr, td {
-    border: 1px solid black;
-}
-.award {
-    background-image: url("./resources/eaglebackground.jpeg");
-    border: 1px solid white;
-    padding: 5px;
-    width: auto;
-    background-repeat: none; 
-}
-.award img {
-    width: auto;
-}
 .container {
     position:relative;
+
+}
+.container1 {
+    display: flex;
+    justify-content: center;
+  
+}
+.education {
+    background-image: url("./resources/pinkuniverse.jpeg");
+    border: 2px solid black;
+    padding: 5px;
+    color: white;
+}
+.employers {
+    background-image: url("./resources/leather.jpeg");
+    border: 2px solid black;
+    padding: 5px;
+}
+.experience {
+    background-color: rgb(212, 80, 102);
+    border: 2px solid black;
+    padding: 5px;
+}
+h1 {
+    color:;
+    background-color: forestgreen;
+    text-align: center;
+}
+h2 {
+    color:green;
+}
+.index1 img {
+    width: 50%;
+}
+img {
+    width: 100%;
+    border-radius: 5px;
+}
+.josh img {
+    width: 50%;
+    height: auto;
+    display: inline-block;
+    position: fixed;
+    padding-left: 50%;
+    padding-top: none;
+    bottom: 20px;
+   }
+nav a {
+    display: inline;
+    padding: 5px;
+    color: rgba(242, 26, 228, 0.977);
+    text-decoration: none;
+}
+.skills {
+    background-color: rgb(109, 84, 232);
+    border: 2px solid black;
+    padding: 5px;
+}
+.skillz {
+    border: 1px solid black; 
+    padding: 5px;
+    text-align: center;
+}
+table, th, tr, td {
+    border: 1px solid black;
 }
 .text-box {
     position: absolute;
@@ -50,54 +111,6 @@ table, th, tr, td {
     padding-left: 20px;
     padding-right: 20px;
 }
-h1 {
-    color:;
-    background-color: forestgreen;
-    text-align: center;
-}
-h2 {
-    color:green;
-}
-.experience {
-    background-color: rgb(212, 80, 102);
-    border: 2px solid black;
-    padding: 5px;
-}
-.index1 img {
-    width: 50%;
-}
-img {
-    width: 100%;
-    border-radius: 5px;
-}
-.josh img {
-    width: 50%;
-    height: auto;
-    display: inline-block;
-    position: fixed;
-    padding-left: 50%;
-    padding-top: none;
-    bottom: 20px;
-   }
-.skills {
-    background-color: rgb(109, 84, 232);
-    border: 2px solid black;
-    padding: 5px;
-}
-.education {
-    background-image: url("./resources/pinkuniverse.jpeg");
-    border: 2px solid black;
-    padding: 5px;
-    color: white;
-}
-.awards {
-    background-color: gold;
-    border: 2px solid black;
-    padding: 5px;
-    color: white;
-}
-.employers {
-    background-image: url("./resources/leather.jpeg");
-    border: 2px solid black;
-    padding: 5px;
-}
+ul {
+    list-style-type: none;
+}  
